@@ -144,3 +144,14 @@ H. Devarajan, A. Kougkas, K. Bateman, and X. Sun. "HCL: Distributing Parallel Da
   organization={IEEE}
 }
 ```
+
+## License
+
+HCL is distributed under the terms of the MIT license.
+All new contributions must be made under this license.
+
+See [LICENSE](LICENSE) and [NOTICE](NOTICE) for details.
+
+SPDX-License-Identifier: MIT
+
+LLNL-CODE-2024514 — Applied Storage Research (ASR)
